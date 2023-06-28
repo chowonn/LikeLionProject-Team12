@@ -6,6 +6,8 @@
 
 > 프로젝트 기간 : 2023년 6월 23일 ~ 2023년 6월 28일
 
+> 배포 주소 : https://12clock-karly.netlify.app/
+
 ### 🎥 시연 영상
 [![Video Label](https://cdn.discordapp.com/attachments/1120944741626941470/1123263961438093363/GIFMaker_me.gif)](https://youtu.be/ZZ9t4hgoNDM)
 > 영상을 클릭하면 <img src="https://cdn.discordapp.com/attachments/1120944741626941470/1123269939994824734/png-transparent-youtube-logo-youtube-computer-icons-logo-android-joystick-angle-electronics-rectangle.png" width="15px">&nbsp;<span style="color:red">YouTube</span>&nbsp;로 이동됩니다.
